@@ -66,6 +66,6 @@ El sitio está desplegado con **GitHub Pages**, lo que permite visualizar el por
 ## 📬 Contacto
 
 📧 **alejandraesteo@gmail.com**  
-🌐 LinkedIn próximamente disponible
+🌐 LinkedIn **www.linkedin.com/in/alejandra-esteo**
 
 ¡Gracias por visitar este repositorio y por tu interés en mi trabajo!  
